@@ -5,13 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=On%20a%20journey%20to%20learn%20programming&font=Fira%20Code&center=true&width=440&height=45&color=363636&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=363636&vCenter=true&size=22">
   </a>
 </p>
 
+
 ## About Me
 
-- 👨‍💼 I'm Mohamed Fathy, and I'm on a journey to learn programming.
+- 👨‍💼 I'm Mohamed Fathy, and I'm Mobile Developer.
 - 💻 I'm a self-taught programmer.
 - 🙋‍♂️ I'm passionate about continuous learning.
 
