@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<img width="500" align="right" src="https://i.imgur.com/8JqRaWG.gif">
+<img width="400" align="right" src="https://i.imgur.com/8JqRaWG.gif">
 
 # Mohamed Fathy's Profile
 
